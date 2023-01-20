@@ -3,10 +3,10 @@
 
 
 
+
 ![pcmoraesmenezes GitHub stats](https://github-readme-stats.vercel.app/api?username=pcmoraesmenezes&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcmoraesmenezes)](https://github.com/pcmoraesmenezes/github-readme-stats)
 
 
 ### Currently learning 🔧
