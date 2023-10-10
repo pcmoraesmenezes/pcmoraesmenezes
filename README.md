@@ -30,6 +30,12 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   &nbsp;&nbsp;
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+- **Data Visualization:**
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=matplotlib&logoColor=white)
+  &nbsp;&nbsp;
+  ![Seaborn](https://img.shields.io/badge/Seaborn-292734?style=for-the-badge&logo=seaborn&logoColor=white)
+  
 - **IDEs:**
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   &nbsp;&nbsp;
@@ -37,7 +43,6 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   &nbsp;&nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 
 - **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
