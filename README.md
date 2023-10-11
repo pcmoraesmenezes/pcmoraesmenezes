@@ -31,6 +31,10 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   &nbsp;&nbsp;
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+- **Machine Learning:**
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 - **Data Visualization:**
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=matplotlib&logoColor=white)
   &nbsp;&nbsp;
