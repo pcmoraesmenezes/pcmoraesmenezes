@@ -43,6 +43,9 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=matplotlib&logoColor=white)
   &nbsp;&nbsp;
   ![Seaborn](https://img.shields.io/badge/Seaborn-292734?style=for-the-badge&logo=seaborn&logoColor=white)
+  &nbsp;&nbsp;
+  [![Missingno](https://img.shields.io/badge/Missingno-000000?style=for-the-badge)](https://github.com/ResidentMario/missingno)
+
   
 - **IDEs:**
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
