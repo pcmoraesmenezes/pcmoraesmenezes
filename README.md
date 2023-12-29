@@ -1,86 +1,38 @@
-# Hello, I'm Paulo César Moraes! 😁
+### <a href="https://imgur.com/tCl4wLY"><img src="https://i.imgur.com/tCl4wLY.png" title="source: imgur.com" /></a>
 
-## About Me
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=pcmoraesmenezes&repo=YOUR_REPOSITORY_NAME&countColor=%230051AB&style=flat&label=Visitors)
+[![GitHub pcmoraesmenezes](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/pcmoraesmenezes)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-I am a passionate Computer Science student at Unifal - Universidade Federal de Alfenas, with a strong interest in data science, artificial intelligence, and deep learning. I have experience with programming languages such as Python, C, C++, and Java, and I'm focused on improving my Python skills for machine learning and AI.
+## About Me 😁
 
-## Dev Stack
+I am a dedicated Computer Science student at Unifal - Universidade Federal de Alfenas, driven by a profound passion for the realms of data science, artificial intelligence, and deep learning 🤖 . My journey in the world of programming languages includes proficiency in Python, C, C++, and Front End. However, my current focus is on enhancing my Python skills 🚀, particularly in the domains of machine learning and AI.
 
-- **Languages:**
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  &nbsp;&nbsp;
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  &nbsp;&nbsp;
-
-- **Front-end:**
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  &nbsp;&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  &nbsp;&nbsp;
-
-- **Database:**
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  &nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  &nbsp;&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  &nbsp;&nbsp;
-
-  
-- **Frameworks:**
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  &nbsp;&nbsp;
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  &nbsp;&nbsp;
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-- **Machine Learning:**
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+My academic pursuit at Unifal has equipped me with a solid foundation, and I am eager to apply my knowledge to real-world challenges 🎯. As a proactive learner, I actively engage in projects and coursework that allow me to explore the intricacies of these cutting-edge technologies. I find immense satisfaction in unraveling the complexities of data and leveraging it to derive meaningful insights 📈.
 
 
-- **Plotting Libraries:**
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=matplotlib&logoColor=white)
-  &nbsp;&nbsp;
-  ![Seaborn](https://img.shields.io/badge/Seaborn-292734?style=for-the-badge&logo=seaborn&logoColor=white)
-  &nbsp;&nbsp;
-  [![Missingno](https://img.shields.io/badge/Missingno-000000?style=for-the-badge)](https://github.com/ResidentMario/missingno)
-  &nbsp;&nbsp;
-  ![Yellowbrick](https://img.shields.io/badge/Yellowbrick-F1B136?style=for-the-badge&logo=yellowbrick&logoColor=white)
+### 🛠 &nbsp;Tech Stack
 
-
-  
-- **Code Editors:**
-  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  &nbsp;&nbsp;
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-  &nbsp;&nbsp;
-
-- **Notebook Environment**
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  &nbsp;&nbsp;
-
-- **Version Control:**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  &nbsp;&nbsp;
-
----
-## Github Infos
-<div align="center">
-  <div style="display: inline-block; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pcmoraesmenezes&show_icons=true&theme=radical" alt="pcmoraesmenezes GitHub stats" />
-    &nbsp;&nbsp;&nbsp;
-  </div>
-
-  <div style="display: inline-block;">
-    <a href="https://github.com/pcmoraesmenezes/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcmoraesmenezes&layout=compact" alt="Top Langs" />
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcmoraesmenezes&theme=radical" alt="GitHub Contributions" />
-  </div>
-</div>
-
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Static Badge](https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas&logoColor=blue)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-05122A.svg?logo=matplotlib_icons)
+![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-05122A.svg?logo=downloadasdasdasdasd)
+![Yellowbrick](https://custom-icon-badges.demolab.com/badge/Yellowbrick-05122A.svg?logo=downloadasdasdxxzc)
+![Static Badge](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=scikitlearn&logoColor=Orange)
+![Static Badge](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=red)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-05122A?logo=jupyter&logoColor=oragen)
+![Static Badge](https://img.shields.io/badge/Google%20Colab-05122A?logo=googlecolab&logoColor=oragen)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 📬 Let's Connect
 
