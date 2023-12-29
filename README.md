@@ -39,7 +39,7 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-- **Data Visualization:**
+- **Plotting Libraries:**
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=matplotlib&logoColor=white)
   &nbsp;&nbsp;
   ![Seaborn](https://img.shields.io/badge/Seaborn-292734?style=for-the-badge&logo=seaborn&logoColor=white)
@@ -50,11 +50,13 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
 
 
   
-- **IDEs:**
+- **Code Editors:**
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   &nbsp;&nbsp;
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   &nbsp;&nbsp;
+
+- **Notebook Environment**
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - **Version Control:**
