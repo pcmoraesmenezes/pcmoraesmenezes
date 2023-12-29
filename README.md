@@ -45,6 +45,9 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
   ![Seaborn](https://img.shields.io/badge/Seaborn-292734?style=for-the-badge&logo=seaborn&logoColor=white)
   &nbsp;&nbsp;
   [![Missingno](https://img.shields.io/badge/Missingno-000000?style=for-the-badge)](https://github.com/ResidentMario/missingno)
+  &nbsp;&nbsp;
+  ![Yellowbrick](https://img.shields.io/badge/Yellowbrick-F1B136?style=for-the-badge&logo=yellowbrick&logoColor=white)
+
 
   
 - **IDEs:**
