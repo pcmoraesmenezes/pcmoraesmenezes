@@ -58,13 +58,11 @@ I am a passionate Computer Science student at Unifal - Universidade Federal de A
 
 - **Notebook Environment**
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  &nbsp;&nbsp;
 
 - **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Hobbies
-
-When I'm not coding, you can find me at the gym or learning something new.
+  &nbsp;&nbsp;
 
 ---
 ## Github Infos
@@ -84,17 +82,11 @@ When I'm not coding, you can find me at the gym or learning something new.
 </div>
 
 
-## 📞 Contact
+## 📬 Let's Connect
 
-Feel free to get in touch with me through the following platforms:
+Feel free to reach out to me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-césar-moraes-04181b247/)
-&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.moraes@sou.unifal-mg.edu.br)
-&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.moraes@sou.unifal-mg.edu.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pcmoraesmenezes/)
 
-<br />
-<br />
-
-Feel free to connect, drop me an email, or check out my Instagram!
