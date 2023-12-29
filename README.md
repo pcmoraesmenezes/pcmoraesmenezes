@@ -1,6 +1,6 @@
 ### <a href="https://imgur.com/tCl4wLY"><img src="https://i.imgur.com/tCl4wLY.png" title="source: imgur.com" /></a>
 
-![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=pcmoraesmenezes&repo=YOUR_REPOSITORY_NAME&countColor=%230051AB&style=flat&label=Visitors)
+![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=pcmoraesmenezes&repo=README&countColor=%230051AB&style=flat&label=Visitors)
 [![GitHub pcmoraesmenezes](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/pcmoraesmenezes)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
