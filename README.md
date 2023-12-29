@@ -33,6 +33,9 @@ My academic pursuit at Unifal has equipped me with a solid foundation, and I am 
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-05122A?logo=jupyter&logoColor=oragen)
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-05122A?logo=googlecolab&logoColor=oragen)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Static Badge](https://img.shields.io/badge/Linux-05122A?logo=linux&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Windows-05122A?logo=windows&logoColor=blue)
+
 
 ## 📬 Let's Connect
 
