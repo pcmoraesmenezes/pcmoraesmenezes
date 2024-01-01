@@ -28,6 +28,7 @@ My academic pursuit at Unifal has equipped me with a solid foundation, and I am 
 ![Static Badge](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=red)
+![Static Badge](https://img.shields.io/badge/CouchDB-05122A?style=plastic&logo=apachecouchdb&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-05122A?logo=jupyter&logoColor=oragen)
