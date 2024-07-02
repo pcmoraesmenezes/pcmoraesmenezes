@@ -16,6 +16,7 @@ My academic pursuit at Unifal has equipped me with a solid foundation, and I am 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas&logoColor=blue)
@@ -23,6 +24,7 @@ My academic pursuit at Unifal has equipped me with a solid foundation, and I am 
 ![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-05122A.svg?logo=downloadasdasdasdasd)
 ![Yellowbrick](https://custom-icon-badges.demolab.com/badge/Yellowbrick-05122A.svg?logo=downloadasdasdxxzc)
 ![Static Badge](https://img.shields.io/badge/Scikit%20Learn-05122A?style=flat&logo=scikitlearn&logoColor=Orange)
+![Static Badge](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=Pytorch)
 ![Static Badge](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite&logoColor=blue)
@@ -30,6 +32,7 @@ My academic pursuit at Unifal has equipped me with a solid foundation, and I am 
 ![Static Badge](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/CouchDB-05122A?style=plastic&logo=apachecouchdb&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-05122A?logo=askdmapsdoamsdka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-05122A?logo=jupyter&logoColor=oragen)
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-05122A?logo=googlecolab&logoColor=oragen)
